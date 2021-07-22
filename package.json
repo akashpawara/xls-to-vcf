@@ -26,6 +26,6 @@
   "dependencies": {
     "commander": "^2.19.0",
     "csv-parse": "^4.4.6",
-    "xlsx": "^0.14.0"
+    "xlsx": "^0.17.0"
   }
 }
